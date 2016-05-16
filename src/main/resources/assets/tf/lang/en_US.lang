@@ -1,0 +1,28 @@
+tile.PS3.name=Playstation 3
+tile.TV.name=Desktop Monitor
+
+achievement.mineOre= Getting Started
+achievement.mineOre.desc=Mine Silicon Ore
+achievement.craftCTRL=Getting Tech
+achievement.craftCTRL.desc=Craft a Controller
+
+gui.keycardSetup.save=§1Continue
+gui.password.invalidCode=§cInviald Unique ID
+gui.password.setup=§3Unique ID Setup
+
+item.Controller.name=Controller
+item.CamoController.name=Camo Controller
+item.RedController.name=Red Controller
+item.BlueController.name=Blue Controller
+item.GreenController.name=Green Controller
+item.xController.name=§2Controller
+item.xCamoController.name=§2Camo Controller
+item.xRedController.name=§2Red Controller
+item.xBlueController.name=§2Blue Controller
+item.xGreenController.name=§2Green Controller
+
+
+enchantment.Gaming=Gaming
+enchantment.Computing=Computing
+
+itemGroup.tabConsole=Console Mod

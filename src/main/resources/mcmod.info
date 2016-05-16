@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tf",
+  "name": "Technological Foundation",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Geometrically"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
